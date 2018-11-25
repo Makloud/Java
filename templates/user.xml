@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="breader" value="BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));&#10;$END$" description="Buffered Reader" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
